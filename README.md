@@ -1,8 +1,8 @@
 - Hi, I’m @giavonnalaurie
-- I’m interested in cybersecurity as well as software development
+- I’m interested in cybersecurity as well as software development.
 - I’m currently a business major at the State University of New York in Dutchess County. I am also enrolled and certified in cybersecurity courses offered through Google.
-- I’m looking to collaborate on cybersecurity projects that will help me prepare for future employment.
-- How to reach me: giavonnalaurie@outlook.com or @giavonnalaurie on LinkedIN
+- I’m looking to collaborate on real world cybersecurity projects that will help me prepare for future employment.
+- How to reach me: giavonnalaurie@outlook.com or @giavonnalaurie on LinkedIn.
 - Pronouns: She/Her
 
 <!---
